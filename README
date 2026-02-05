@@ -1,0 +1,12 @@
+# Simple Learning Chatbot (Python)
+
+A beginner-friendly Python chatbot that replies using a dictionary and **learns new replies while running**.
+
+## How it works
+- If the input exists → the bot replies
+- If not → the bot asks what it should reply and learns it
+
+## Run
+```bash
+python chatbot.py
+```
